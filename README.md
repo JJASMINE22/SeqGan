@@ -17,7 +17,7 @@ nltk==3.7
 tqdm==4.62.3
 
 ## 模型结构
-![image]()
+![image](https://github.com/JJASMINE22/SeqGan/blob/main/structure/model_seqgan.png)
 
 ## 注意事项
 1. 新增基于生成器、对抗器权重的l2正则化误差，降低过拟合概率
